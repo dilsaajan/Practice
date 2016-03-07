@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "opw:test_block" }
+    }
+}
